@@ -1,6 +1,5 @@
 
 import java.util.Arrays;
-
 public class bubblesort {
     public void Bubblesort(int[] array){
         boolean flag= false;
